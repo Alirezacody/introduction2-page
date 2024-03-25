@@ -3,3 +3,88 @@
     padding:0 !important;
     box-sizing:0 !important;
 }
+
+
+#background-two{
+    background-color:rgba(0,0,0,0.7);
+}
+
+
+#background-one{
+    background-image: url(img02.jpg);
+    background-repeat: none !important;
+    background-size: cover !important;
+    background-attachment: scroll !important;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.profile-image{
+    width:8%;
+    height:60px;
+}
+
+.top-menu{
+    height:50px;
+    text-align: center !important;
+}
+
+.toure{
+    height:200px;
+    margin-top: 150px !important;
+}
+
+.content-toure{
+    margin-left:30% !important;
+    width:40%;
+    height:100%;
+    
+    text-align: center;
+}
+
+.lifestyle{
+    width:20% !important;
+    margin:0 auto !important;
+    height:30px !important;
+}
+
+.gg{
+    height:130px !important;
+
+    transform: rotate(10deg);
+    text-align: center;
+}
+
+.container{
+    border-bottom: 2px solid rgb(255,193,7);
+    width:30% !important;
+    margin: 0 auto !important;
+}
+
+.float-l{
+    float: left !important;
+    width:21% !important;
+    height:320px !important;
+    margin:2% !important;
+    margin-bottom: 0 !important;
+    transition: all 500ms;
+    /* border:20px solid rgb(38, 38, 38); */
+}
+
+.float-l:hover{
+    background-color: rgb(255,193,7) !important;
+}
+
+.cont-image{
+    width:90%;
+    height:55%;
+    border:2px solid white;
+    margin:10px auto !important;
+}
+
+.picture-text{
+    width:95% !important;
+    margin:10px auto !important;
+}
