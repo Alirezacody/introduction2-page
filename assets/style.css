@@ -15,10 +15,15 @@
     background-repeat: none !important;
     background-size: cover !important;
     background-attachment: scroll !important;
+    border-bottom:5px solid rgb(255,193,7);
 }
 
 a{
     text-decoration: none !important;
+}
+
+.text{
+    text-align:center;
 }
 
 .profile-image{
@@ -87,4 +92,46 @@ a{
 .picture-text{
     width:95% !important;
     margin:10px auto !important;
+}
+
+.div-3{
+    width:40% !important;
+    height:40% !important;
+    margin-top: 40px !important;
+    position: relative;
+    z-index: 10;
+    border:15px solid rgb(23, 23, 23);
+    box-shadow: 10px 10px 5px rgb(0, 3, 25);
+    transition:all 500ms;
+}
+
+.div-3:hover{
+    box-shadow: -10px 10px 5px rgb(255, 255, 255);
+}
+
+.date{
+    font-size: 0.8em !important;
+}
+
+.mg1{
+    height:500px;
+}
+
+.lorem1{
+    color:rgb(115, 114, 114);
+    text-align: justify;
+}
+
+.social-media{
+    margin-top:70px !important;
+}
+
+.icon{
+    width:19% !important;
+    display: inline-block;
+    background-color: black;
+}
+
+.div-3-3{
+    background-color: rgb(33, 32, 32) !important;
 }
