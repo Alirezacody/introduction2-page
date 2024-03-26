@@ -171,12 +171,12 @@ a{
     width:60% !important;
 }
 .post-text{
-    color:rgb(65, 65, 65);
+    color:rgb(126, 125, 125);
     font-size:0.8em !important;
 }
 
 .optext{
-    color:rgb(65, 65, 65);
+    color:rgb(120, 120, 120);
 }
 
 .may{
@@ -188,4 +188,24 @@ a{
 .pop{
     width:90%;
     margin:0 auto !important;
+}
+
+.cimg{
+    height:250px;
+}
+
+.lorem-{
+    width:80% !important;
+}
+
+.place-you{
+    height:450px;
+}
+
+.category{
+    height:fit-content !important;
+}
+
+.category-{
+    text-align:justify !important;
 }
