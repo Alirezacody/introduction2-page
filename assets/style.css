@@ -38,19 +38,18 @@ a{
 
 .toure{
     height:200px;
-    margin-top: 150px !important;
+    margin: 150px auto !important;
 }
 
 .content-toure{
-    margin-left:30% !important;
-    width:40%;
+    margin:0 auto!important;
+    width:75%;
     height:100%;
-    
     text-align: center;
 }
 
 .lifestyle{
-    width:20% !important;
+    width:15% !important;
     margin:0 auto !important;
     height:30px !important;
 }
@@ -134,4 +133,46 @@ a{
 
 .div-3-3{
     background-color: rgb(33, 32, 32) !important;
+}
+
+
+.tow-div{
+    height:fit-content !important;
+}
+
+.video{
+    position: relative;
+    margin-top: 150px !important;
+    height:350px !important;
+}
+.video::after{
+    content:'';
+    width:100%;
+    height:100%;
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.547);
+    top:0;
+    right:0;
+}
+
+.play-icon{
+    top:35%;
+    left:43%;
+    color:rgb(225, 160, 7) !important;
+    font-size: 5em;
+    z-index: 99;
+}
+
+.recent{
+    width:60% !important;
+}
+.post-text{
+    color:rgb(65, 65, 65);
+    font-size:0.8em !important;
+}
+
+.may{
+    display: inline-block !important;
+    font-size: 0.8em;
+    color:rgb(67, 67, 67);
 }
