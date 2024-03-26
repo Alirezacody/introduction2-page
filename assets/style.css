@@ -155,6 +155,10 @@ a{
     right:0;
 }
 
+.rt{
+    font-size: 0.8em !important;
+}
+
 .play-icon{
     top:35%;
     left:43%;
@@ -171,8 +175,17 @@ a{
     font-size:0.8em !important;
 }
 
+.optext{
+    color:rgb(65, 65, 65);
+}
+
 .may{
     display: inline-block !important;
     font-size: 0.8em;
     color:rgb(67, 67, 67);
+}
+
+.pop{
+    width:90%;
+    margin:0 auto !important;
 }
