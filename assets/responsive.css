@@ -1,0 +1,24 @@
+@media screen and (min-width:150px) and (max-width:950px) {
+    body{
+        width:90% !important;
+        padding-left: 60px !important;
+    }
+
+    .end-part{
+        background-color: rgb(172, 171, 171);
+        margin-top: 200px !important;
+    }
+
+    .end-part div{
+        border: none !important;
+        margin-left: 0% !important;
+        margin-top: 50px !important;
+    }
+    .end-part p{
+        margin-left: 0% !important;
+    }
+    .end-part h5{
+        margin-left: 0% !important;
+    }
+}
+
