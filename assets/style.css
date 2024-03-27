@@ -209,3 +209,12 @@ a{
 .category-{
     text-align:justify !important;
 }
+
+.carousel{
+    height:300px !important;
+}
+
+.carousel-container{
+    margin-top:100px !important;
+
+}
