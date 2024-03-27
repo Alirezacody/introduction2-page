@@ -218,3 +218,18 @@ a{
     margin-top:100px !important;
 
 }
+
+.tytytyt{
+    height:300px !important;
+}
+
+.phptosd{
+    margin-left:127px !important;
+}
+
+@media screen and (min-width:150px) and (max-width:950px) {
+    .ui90{
+        margin-top: 700px !important;
+    }
+
+}
