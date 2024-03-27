@@ -233,3 +233,41 @@ a{
     }
 
 }
+
+.end-part{
+    margin-top: 400px !important;
+    margin-bottom:100px !important ;
+}
+
+.logo12{
+    height:50px !important;
+}
+
+.logo12 img{
+    width:50px !important;
+}
+
+input{
+    outline: none !important;
+    border: none !important;
+    height:60px;
+    background-color: black;
+    border-radius: 10px !important;
+}
+button{
+    height:60px;
+    padding: 3px !important;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 10px !important;
+}
+
+button i{
+    transform: rotate(-10deg);
+    transition: all 500ms !important;
+}
+
+button i:hover{
+    transform: rotate(10deg) !important;
+}
